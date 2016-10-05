@@ -3,4 +3,11 @@ img {
 }
 body {
  text-align: center;
+ font-family: "arial";
 }
+
+p {
+    color: gray;
+    font-family: sans-serif;
+}
+
